@@ -1,7 +1,6 @@
 ## Spotify Album Finder
 
 Utilizing Spotify's API, which can access any artist and their albums.
-
 Programmed Using HTML, CSS, JavaScript, Node.Js, and React using a Bootstrap Framework.
 
 ---
