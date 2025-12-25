@@ -1,4 +1,4 @@
-### Spotify Album Finder
+## Spotify Album Finder
 
 Utilizies Spotify API to find albums, and more details
 
